@@ -1,4 +1,4 @@
-module wailts
+module github.com/rgehrsitz/config-vault
 
 go 1.23
 
